@@ -18,7 +18,7 @@ Description
 
 ## 1. General information
 
-General inforamtion
+General information
 
 ## 2. Structure
 
